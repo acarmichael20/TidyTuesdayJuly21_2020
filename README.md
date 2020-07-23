@@ -9,10 +9,9 @@ Below is a quick explaination of the work I have done using the data from the [R
 Since the animal outcomes data is broken out by State/Territory, I brought in population data from the Australian Bureau of Statistics and looked to see if there was any connection between outcomes and population.  I did this but didn't find anything that jumped out at me and moved on.  
 
 For my second attempt I looked to see if Cats and Dogs had different outcomes. My assumption was that since both animals are common household pets, their outcomes would be broadly similar.  In the image below, it is
-
-![Image](https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/TidyTuesdayJuly21_2020.jpeg)
-
-
+<p align="center">
+  ![Image](https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/TidyTuesdayJuly21_2020.jpeg)
+</p>
 
 
 
