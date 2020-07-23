@@ -10,7 +10,7 @@ Since the animal outcomes data is broken out by State/Territory, I brought in po
 
 For my second attempt I looked to see if Cats and Dogs had different outcomes. My assumption was that since both animals are common household pets, their outcomes would be broadly similar.  In the image below, it is
 
-![Image](src)
+![Image](https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/TidyTuesdayJuly21_2020.jpeg)
 
 
 
