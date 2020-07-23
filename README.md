@@ -1,4 +1,20 @@
-## Welcome to GitHub Pages
+## RSPCA Interactions With Cats and Dogs
+
+[TidyTuesday](https://github.com/rfordatascience/tidytuesday) makes a dataset available for data junkies to practice their data manipulation and statistical skills with.  Many thanks to the TidyTuesday peeps, working with their datasets and seeing how other people approach the same datasets is very educational.
+
+Below is a quick explaination of the work I have done using the data from the [RSPCA dataset](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-07-21/readme.md) posted July 21, 2020
+
+## My approach
+
+Since the animal outcomes data is broken out by State/Territory, I brought in population data from the Australian Bureau of Statistics and looked to see if there was any connection between outcomes and population.  I did this but didn't find anything that jumped out at me and moved on.  
+
+For my second attempt I looked to see if Cats and Dogs had different outcomes. My assumption was that since both animals are common household pets, their outcomes would be broadly similar.  In the image below, it is
+
+![Image](src)
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/acarmichael20/TidyTuesdayJuly21_2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
