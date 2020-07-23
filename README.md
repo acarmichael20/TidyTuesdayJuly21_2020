@@ -10,9 +10,10 @@ Since the animal outcomes data is broken out by State/Territory, I brought in po
 
 For my second attempt I looked to see if Cats and Dogs had different outcomes. My assumption was that since both animals are common household pets, their outcomes would be broadly similar.  In the image below, it is
 <p align="center">
-  ![Image](https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/TidyTuesdayJuly21_2020.jpeg)
-</p>
 
+  <img src="https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/TidyTuesdayJuly21_2020.jpeg">
+
+</p>
 
 
 You can use the [editor on GitHub](https://github.com/acarmichael20/TidyTuesdayJuly21_2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
