@@ -37,11 +37,11 @@ I filtered the dataset to keep the top three outcomes.  I then plotted the datas
 ## Outcomes
 
 provide a discussion of the three outcomes and how they are different or similar
-# Euthanized
+### Euthanized
 
-# Reclaimed
+### Reclaimed
 
-# Rehomed
+### Rehomed
 
 
 
