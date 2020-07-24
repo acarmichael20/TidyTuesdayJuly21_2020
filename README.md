@@ -14,8 +14,6 @@ I started by looking at the outcomes:
 
 </p>
 
-
-
 <!--
 |Outcome          |   Instances    |
 |:-----------------:|----------------:|
@@ -28,6 +26,7 @@ I started by looking at the outcomes:
 |In Stock         | 32,271          | 
 -->
 
+I filtered the dataset to keep the top three outcomes.  I then plotted the dataset.  
 
 <p align="center">
 
