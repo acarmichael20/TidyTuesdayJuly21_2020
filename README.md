@@ -8,7 +8,15 @@ Below is a quick explaination of the work I have done using the data from the [R
 I began this weeks project with a simple question, are the outcomes for Cats and Dogs similar?  My initial assumption was that since both animals are common household pets, their outcomes would be broadly similar.  
 
 I started by looking at the outcomes:
+<p align="center">
 
+  <img src="https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/Table.PNG">
+
+</p>
+
+
+
+<!--
 |Outcome          |   Instances    |
 |:-----------------:|----------------:|
 |Euthanized       |886,503          | 
@@ -18,7 +26,7 @@ I started by looking at the outcomes:
 |Transferred      | 48,694          |
 |Other            | 36,526          |
 |In Stock         | 32,271          | 
-
+-->
 
 
 <p align="center">
