@@ -5,11 +5,21 @@
 Below is a quick explaination of the work I have done using the data from the [RSPCA dataset](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-07-21/readme.md) posted July 21, 2020
 
 ## My Approach
-I started by looking for differences in the outcomes of Cats and Dogs. My assumption was that since both animals are common household pets, their outcomes would be broadly similar.  In the chart below, it would appear that the outcomes of Cats and Dogs are in fact different.
+I began this weeks project with a simple question, are the outcomes for Cats and Dogs similar?  My initial assumption was that since both animals are common household pets, their outcomes would be broadly similar.  
 
--Euthanized <br>
--Reclaimed <br>
--Rehomed
+I started by looking at the outcomes:
+
+|Outcome          |   Instances    |
+|-----------------|----------------|
+|Euthanized       |886503          | 
+|Rehomed          |794541          |
+|Reclaimed        |406006          |
+|Currently In Care| 61299          |
+|Transferred      | 48694          |
+|Other            | 36526          |
+|In Stock         | 32271          | 
+
+
 
 <p align="center">
 
