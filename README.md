@@ -10,7 +10,7 @@ I began this weeks project with a simple question, are the outcomes for Cats and
 I started by looking at the outcomes:
 
 |Outcome          |   Instances    |
-|-----------------|----------------|
+|-----------------:|----------------:|
 |Euthanized       |886,503          | 
 |Rehomed          |794,541          |
 |Reclaimed        |406,006          |
