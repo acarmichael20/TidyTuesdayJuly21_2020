@@ -10,8 +10,8 @@ Since the animal outcomes data is broken out by State/Territory, I brought in po
 
 For my second attempt I looked to see if Cats and Dogs had different outcomes. My assumption was that since both animals are common household pets, their outcomes would be broadly similar.  I limited the outcomes I looked at to:
 
--Euthanized
--Reclaimed
+-Euthanized <br>
+-Reclaimed <br>
 -Rehomed
 
 
