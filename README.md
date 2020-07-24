@@ -11,13 +11,13 @@ I started by looking at the outcomes:
 
 |Outcome          |   Instances    |
 |-----------------|----------------|
-|Euthanized       |886503          | 
-|Rehomed          |794541          |
-|Reclaimed        |406006          |
-|Currently In Care| 61299          |
-|Transferred      | 48694          |
-|Other            | 36526          |
-|In Stock         | 32271          | 
+|Euthanized       |886,503          | 
+|Rehomed          |794,541          |
+|Reclaimed        |406,006          |
+|Currently In Care| 61,299          |
+|Transferred      | 48,694          |
+|Other            | 36,526          |
+|In Stock         | 32,271          | 
 
 
 
