@@ -5,22 +5,26 @@
 Below is a quick explaination of the work I have done using the data from the [RSPCA dataset](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-07-21/readme.md) posted July 21, 2020
 
 ## My Approach
-
-Since the animal outcomes data is broken out by State/Territory, I brought in population data from the Australian Bureau of Statistics and looked to see if there was any connection between outcomes and population.  I did this but didn't find anything that jumped out at me and moved on.  
-
-For my second attempt I looked to see if Cats and Dogs had different outcomes. My assumption was that since both animals are common household pets, their outcomes would be broadly similar.  I limited the outcomes I looked at to:
+I started by looking for differences in the outcomes of Cats and Dogs. My assumption was that since both animals are common household pets, their outcomes would be broadly similar.  In the chart below, it would appear that the outcomes of Cats and Dogs are in fact different.
 
 -Euthanized <br>
 -Reclaimed <br>
 -Rehomed
 
-
-In the image below, it is evident that Cats and Dogs do have different outcomes.
 <p align="center">
 
   <img src="https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/TidyTuesdayJuly21_2020.jpeg">
 
 </p>
+
+
+
+
+
+
+
+
+
 
 
 
