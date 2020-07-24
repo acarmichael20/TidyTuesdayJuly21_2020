@@ -26,7 +26,7 @@ I started by looking at the outcomes:
 |In Stock         | 32,271          | 
 -->
 
-I filtered the dataset to keep the top three outcomes.  I then plotted the dataset.  
+I filtered the dataset to keep the top three outcomes.  I then plotted the dataset, which is shown below. 
 
 <p align="center">
 
@@ -34,6 +34,14 @@ I filtered the dataset to keep the top three outcomes.  I then plotted the datas
 
 </p>
 
+## Outcomes
+
+provide a discussion of the three outcomes and how they are different or similar
+# Euthanized
+
+# Reclaimed
+
+# Rehomed
 
 
 
