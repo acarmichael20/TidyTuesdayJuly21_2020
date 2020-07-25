@@ -13,7 +13,7 @@ I started by looking at the outcomes:
 </p>
 
 <p align="center">
-  <img src=""https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/Table.png" />
+  <img src="https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/Table.jpg" />
 </p>
 
 
