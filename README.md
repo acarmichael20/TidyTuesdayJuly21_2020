@@ -42,7 +42,7 @@ provide a discussion of the three outcomes and how they are different or similar
 
 ### Rehomed
 
-
+![image](https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/Table.PNG)
 
 
 
