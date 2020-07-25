@@ -39,11 +39,12 @@ provide a discussion of the three outcomes and how they are different or similar
 
 ### Rehomed
 
+
+<!--
 <p align="center">
   <img src="https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/TidyTuesdayJuly21_2020.jpeg?raw=true"/>
 </p>
-
-
+-->
 
 
 
