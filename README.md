@@ -47,9 +47,7 @@ provide a discussion of the three outcomes and how they are different or similar
 ### Rehomed
 
 
-<p align="center">
-  ![image](https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/Table.PNG)
-<\p>
+![image](https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/Table.jpeg)
 
 
 
