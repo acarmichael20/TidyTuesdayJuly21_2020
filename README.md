@@ -8,11 +8,9 @@ Below is a quick explaination of the work I have done using the data from the [R
 I began this weeks project with a simple question, are the outcomes for Cats and Dogs similar?  My initial assumption was that since both animals are common household pets, their outcomes would be broadly similar.  
 
 I started by looking at the outcomes:
-<!--
 <p align="center">
-  <img src="https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/Table.PNG">
+  <img src="https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/Table.jpeg?raw=true"/>
 </p>
--->
 
 <!--
 |Outcome          |   Instances    |
@@ -25,10 +23,12 @@ I started by looking at the outcomes:
 |Other            | 36,526          |
 |In Stock         | 32,271          | 
 -->
-<!--
-I filtered the dataset to keep the top three outcomes.  I then plotted the dataset, which is shown below. 
--->
 
+I filtered the dataset to keep the top three outcomes.  I then plotted the dataset, which is shown below. 
+
+<p align="center">
+  <img src="https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/TidyTuesdayJuly21_2020.jpeg?raw=true"/>
+</p>
 
 ## Outcomes
 
@@ -38,12 +38,9 @@ provide a discussion of the three outcomes and how they are different or similar
 ### Reclaimed
 
 ### Rehomed
--->
 
 <p align="center">
   <img src="https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/TidyTuesdayJuly21_2020.jpeg?raw=true"/>
-  
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 
