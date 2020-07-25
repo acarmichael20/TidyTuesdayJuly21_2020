@@ -10,9 +10,7 @@ I began this weeks project with a simple question, are the outcomes for Cats and
 I started by looking at the outcomes:
 <p align="center">
   <img src="https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/Table.PNG">
-[Image](https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/Table.PNG)
 </p>
-[Image](https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/Table.PNG)
 
 
 <!--
