@@ -44,12 +44,11 @@ provide a discussion of the three outcomes and how they are different or similar
 ### Rehomed
 -->
 
-![image](https://acarmichael20.github.io/TidyTuesdayJuly21_2020/Table.jpeg)
-
-![Image](https://acarmichael20.github.io/Canada-Covid-Testing/TestingPerCapita.png)
-
-
-
+<p align="center">
+  <img src="https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/TidyTuesdayJuly21_2020.jpeg"?raw=true" />
+  
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 
 
