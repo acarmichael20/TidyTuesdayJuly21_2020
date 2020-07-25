@@ -31,20 +31,18 @@ I filtered the dataset to keep the top three outcomes.  I then plotted the datas
 </p>
 
 ## Outcomes
-
-provide a discussion of the three outcomes and how they are different or similar
-### Euthanized
+Based on the above chart, Cats and Dogs do have different outcomes in the RSPCA system
 
 ### Reclaimed
-
+Dogs are being reclaimed at a rate (find rate) that of cats.  This may be a result of the 
 ### Rehomed
 
+### Euthanized
 
-<!--
-<p align="center">
-  <img src="https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/TidyTuesdayJuly21_2020.jpeg?raw=true"/>
-</p>
--->
+
+
+
+
 
 
 
