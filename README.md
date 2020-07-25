@@ -28,11 +28,7 @@ I started by looking at the outcomes:
 <!--
 I filtered the dataset to keep the top three outcomes.  I then plotted the dataset, which is shown below. 
 
-<p align="center">
 
-  <img src="https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/TidyTuesdayJuly21_2020.jpeg">
-
-</p>
 
 ## Outcomes
 
@@ -45,7 +41,7 @@ provide a discussion of the three outcomes and how they are different or similar
 -->
 
 <p align="center">
-  <img src="https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/TidyTuesdayJuly21_2020.jpeg"?raw=true" />
+  <img src="https://github.com/acarmichael20/TidyTuesdayJuly21_2020/blob/master/TidyTuesdayJuly21_2020.jpeg"?raw=true"/>
   
   <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
 </p>
