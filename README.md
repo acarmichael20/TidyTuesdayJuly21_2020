@@ -34,7 +34,8 @@ I filtered the dataset to keep the top three outcomes.  I then plotted the datas
 Based on the above chart, Cats and Dogs do have different outcomes in the RSPCA system
 
 ### Reclaimed
-Dogs are being reclaimed at a rate (find rate) that of cats.  This may be a result of the 
+Dogs are being reclaimed at a rate nine times that of cats.  The greater reclaim rate for dogs is due in part to the larger number of licenced dogs in Australia, 1.3 dogs to every cat.  The remaining gap indicates that the RSPCA is processing unlicenced or feral cats.    
+
 ### Rehomed
 
 ### Euthanized
